@@ -1,0 +1,20 @@
+﻿<Properties StartupConfiguration="{E4E0D6D7-4130-4770-93F6-9A88A075151E}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="ViewsDemo/Views/ButtonDemo.xaml.cs">
+    <Files>
+      <File FileName="ViewsDemo/App.xaml.cs" Line="13" Column="9" />
+      <File FileName="ViewsDemo/Views/Date_TimePickerDemo.xaml" Line="1" Column="1" />
+      <File FileName="ViewsDemo/Views/Date_TimePickerDemo.xaml.cs" Line="23" Column="4" />
+      <File FileName="ViewsDemo/Views/EntryDemo.xaml.cs" Line="21" Column="1" />
+      <File FileName="ViewsDemo/Views/EntryDemo.xaml" Line="1" Column="1" />
+      <File FileName="ViewsDemo/Views/ButtonDemo.xaml.cs" Line="17" Column="79" />
+      <File FileName="ViewsDemo/Views/ButtonDemo.xaml" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.ViewsDemo.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.181B3DA1-30B6-4A59-9D79-331C3C344171" />
+  <MultiItemStartupConfigurations />
+</Properties>
